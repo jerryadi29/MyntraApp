@@ -1,0 +1,11 @@
+.logo{
+   
+    height: 100px;
+    width: 180px;
+}
+
+.logo-image{
+    background-image: url("../Logo/logoMyntra.png");
+    height: 50px;
+    width: 30px;
+}
